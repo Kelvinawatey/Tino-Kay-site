@@ -30,9 +30,12 @@ padding:20px 8%;
 }
 
 .logo{
-font-size:1.8rem;
-font-weight:700;
-color:#d4af37;
+img {
+    max-width: 60%; 
+    height: auto;
+    
+    
+}
 }
 
 nav ul{
@@ -48,7 +51,7 @@ color:white;
 
 .hero{
 height:100vh;
-background:url("images/mizter-awatey-1.jpg")
+background:url("4png.jpg")
 center/cover;
 display:flex;
 justify-content:center;
